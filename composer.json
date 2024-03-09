@@ -2,7 +2,7 @@
   "name": "orangecat/utils",
   "description": "Magento 2 Utils",
   "type": "metapackage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "OSL-3.0",
   "require": {
     "markshust/magento2-module-disabletwofactorauth": "^2.0",
@@ -12,7 +12,6 @@
     "yireo/magento2-checkouttester2": "^1.0",
     "yireo/magento2-theme-commands": "^1.2",
     "n98/magerun2-dist": "^7.1",
-    "vpietri/adm-quickdevbar": "dev-develop_ajax_loading",
     "orangecat/emailcatch": "^1.0"
   }
 }
