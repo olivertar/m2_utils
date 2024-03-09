@@ -10,7 +10,7 @@
     "juashyam/logviewer": "^1.0",
     "semaio/magento2-configimportexport": "^4.2",
     "yireo/magento2-checkouttester2": "^1.0",
-    "yireo/magento2-theme-commands": "^3.7",
+    "yireo/magento2-theme-commands": "^1.2",
     "n98/magerun2-dist": "^7.1",
     "vpietri/adm-quickdevbar": "dev-develop_ajax_loading",
     "orangecat/emailcatch": "^1.0"
