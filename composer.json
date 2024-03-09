@@ -2,7 +2,7 @@
   "name": "orangecat/utils",
   "description": "Magento 2 Utils",
   "type": "metapackage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "OSL-3.0",
   "require": {
     "markshust/magento2-module-disabletwofactorauth": "^2.0",
