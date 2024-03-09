@@ -2,9 +2,10 @@
   "name": "orangecat/utils",
   "description": "Magento 2 Utils",
   "type": "metapackage",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "OSL-3.0",
   "require": {
+    "cweagans/composer-patches": "^1.16",
     "markshust/magento2-module-disabletwofactorauth": "^2.0",
     "ethanyehuda/magento2-cronjobmanager": "^2.2",
     "juashyam/logviewer": "^1.0",
